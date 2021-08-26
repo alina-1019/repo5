@@ -6,19 +6,19 @@
    "descriptionMarkdown":"Activity1.md",
    "topology": [
 {
-      "name": "Abs Topo",
+      "name": "Abstract Topology",
       "actionTitle":"Reserve",
       "description": "Create an immediate reservation on the topology",
       "reservationDuration":""
     },
     {
-      "name": "Topo1",
+      "name": "Logical Topology",
       "actionTitle":"Reserve",
       "description": "Create an immediate reservation on the topology",
       "reservationDuration":""
     },
     {
-      "name": "Abs Topo 2",
+      "name": "Abstract Topology that cannot be resolved",
       "actionTitle":"Reserve",
       "description": "Create an immediate reservation on the topology",
       "reservationDuration":""
