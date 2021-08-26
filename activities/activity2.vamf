@@ -1,15 +1,26 @@
 {
    "name":"Activity 2",
-   "priority": 2,
-   "shortDescription": "2",
+   "priority": 4,
+   "shortDescription": "priority = 4",
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
    "topology": [
 {
-      "name": "Abs Topo",
+      "name": "Abstract Topology",
+      "actionTitle":"Reserve",
+      "description": "Create an immediate reservation on the topology",
+      "reservationDuration":""
+    },
+    {
+      "name": "Logical Topology",
+      "actionTitle":"Reserve",
+      "description": "Create an immediate reservation on the topology",
+      "reservationDuration":""
+    },
+    {
+      "name": "Abstract Topology that cannot be resolved",
       "actionTitle":"Reserve",
       "description": "Create an immediate reservation on the topology",
       "reservationDuration":""
     }]
 }
-
